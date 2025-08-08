@@ -137,4 +137,4 @@ Dynamic Model Selection: Implement logic to use the more powerful (and expensive
 Contributions are welcome! If you have suggestions for improvements or find a bug, please feel free to open an issue or submit a pull request.
 
 📄 License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the Apache 2.0. See the LICENSE file for details.
