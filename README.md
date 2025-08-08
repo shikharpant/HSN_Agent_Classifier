@@ -1,5 +1,5 @@
 Dual-Agent AI Pipeline for HSN Code Classification
-![alt text](https://img.shields.io/badge/License-MIT-yellow.svg)
+![alt text](https://img.shields.io/badge/License-Apache2.0-yellow.svg)
 
 ![alt text](https://img.shields.io/badge/python-3.9+-blue.svg)
 
